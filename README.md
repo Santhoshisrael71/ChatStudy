@@ -122,6 +122,17 @@ while True:
 
 client_socket.close()
 ```
+
+## Output:
+sever.py
+
+<img width="587" height="161" alt="image" src="https://github.com/user-attachments/assets/a00318c3-9e46-46c4-bcbf-0ac9018d6ced" />
+
+
+client.py 
+
+<img width="645" height="128" alt="image" src="https://github.com/user-attachments/assets/3e2841d9-be71-4103-b627-a52d39556880" />
+
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
